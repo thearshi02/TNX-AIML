@@ -8,7 +8,7 @@
 
 | Day | Date | Topics completed | Time spent (min) | Evidence (link or snippet) | Confidence (1-5) |
 |---|---|---|---|---|---|
-| Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation |  |  |  |
+| Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation | 120 min | https://github.com/thearshi02/AI-ML-task.git | 5 |
 | Monday | Mon 5 Oct | ML types, workflow stages |  |  |  |
 | Tuesday | Tue 6 Oct | Data quality, leakage, cleaning |  |  |  |
 | Wednesday | Wed 7 Oct | Train/test split, stratification |  |  |  |
