@@ -1,6 +1,6 @@
 # Track C — ML Fundamentals: Week 1 Worksheet
 
-**Name:** _________________________________________  **GitHub handle:** ______________________________
+**Name:** Arshi Ahmad **GitHub handle:** https://github.com/thearshi02
 **Track:** Track C (ML Fundamentals)  **Week:** 1  **Dates:** Sun 4 Oct 2026 -> Mon 12 Oct 2026
 
 > **Instructions:** Fill in the cells only. Labels are already written for you. Great answers are
