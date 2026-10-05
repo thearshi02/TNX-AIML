@@ -29,25 +29,25 @@ scikit-learn model.
 
 ## Monday 5 Oct 2026 — ML types and the workflow
 
-- [ ] **Supervised learning** — labeled data, prediction, and the two flavors: regression and classification. Why it matters: this week is almost entirely supervised.
+- [x] **Supervised learning** — labeled data, prediction, and the two flavors: regression and classification. Why it matters: this week is almost entirely supervised.
   - https://developers.google.com/machine-learning/crash-course
   - https://scikit-learn.org/stable/modules/classification.html
-- [ ] **Unsupervised learning** — clustering and dimensionality reduction, and how it differs. Why it matters: not every problem has labels, and you will meet these methods soon.
+- [x] **Unsupervised learning** — clustering and dimensionality reduction, and how it differs. Why it matters: not every problem has labels, and you will meet these methods soon.
   - https://developers.google.com/machine-learning/crash-course
-- [ ] **The machine learning workflow** — define the problem, get data, explore, clean, split, train, evaluate, tune, deploy, monitor. Why it matters: it is the same shape every week, and the discipline of it is what separates modeling from guesswork.
+- [x] **The machine learning workflow** — define the problem, get data, explore, clean, split, train, evaluate, tune, deploy, monitor. Why it matters: it is the same shape every week, and the discipline of it is what separates modeling from guesswork.
   - https://developers.google.com/machine-learning/crash-course
-- [ ] **Walk through the workflow on a dataset** — choose a small dataset, trace each stage on paper, and mark which you will do in detail next week. Why it matters: puts the terminology into practice immediately.
+- [x] **Walk through the workflow on a dataset** — choose a small dataset, trace each stage on paper, and mark which you will do in detail next week. Why it matters: puts the terminology into practice immediately.
   - **Deliverable:** a printed workflow diagram with your dataset chosen.
 
 ## Tuesday 6 Oct 2026 — Data quality and leakage
 
-- [ ] **Data quality dimensions** — completeness, consistency, accuracy, and timeliness. Why it matters: garbage in is the single biggest reason models fail in production.
+- [x] **Data quality dimensions** — completeness, consistency, accuracy, and timeliness. Why it matters: garbage in is the single biggest reason models fail in production.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Data leakage** — information that would not be available at prediction time, and why it inflates performance. Why it matters: leakage makes a model look brilliant in the lab and useless in the real world.
+- [x] **Data leakage** — information that would not be available at prediction time, and why it inflates performance. Why it matters: leakage makes a model look brilliant in the lab and useless in the real world.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Detection and prevention** — train on a split version and a full version, and compare to show the gap. Why it matters: you will spot the telltale symptom during evaluation.
+- [x] **Detection and prevention** — train on a split version and a full version, and compare to show the gap. Why it matters: you will spot the telltale symptom during evaluation.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Clean a small dataset** — handle missing values, drop duplicated rows, and fix a type problem, then verify the shape before splitting. Why it matters: this is the exact first step you will run on every real project.
+- [x] **Clean a small dataset** — handle missing values, drop duplicated rows, and fix a type problem, then verify the shape before splitting. Why it matters: this is the exact first step you will run on every real project.
   - **Deliverable:** a cleaned dataset plus a short markdown summary of what you fixed and why.
 
 ## Wednesday 7 Oct 2026 — Train/test split
