@@ -9,7 +9,7 @@
 | Day | Date | Topics completed | Time spent (min) | Evidence (link or snippet) | Confidence (1-5) |
 |---|---|---|---|---|---|
 | Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation | 120 min | https://github.com/thearshi02/AI-ML-task.git | 5 |
-| Monday | Mon 5 Oct | ML types, workflow stages |  |  |  |
+| Monday | Mon 5 Oct | ML types, workflow stages | 60 min |https://drive.google.com/file/d/1N3b6h7OOB_oI7W_KTS-7y7AWP0iGMi0P/view?usp=drivesdk  | 5 |
 | Tuesday | Tue 6 Oct | Data quality, leakage, cleaning |  |  |  |
 | Wednesday | Wed 7 Oct | Train/test split, stratification |  |  |  |
 | Thursday | Thu 8 Oct | Regression, linear and polynomial |  |  |  |
